@@ -2,7 +2,10 @@
 ESP32 Magnetometer with HMC5883L
 by Roland Pelayo
 
-Rev 1.0 - June 6, 2020
+Full tutorial: Full Tutorial](https://www.teachmemicro.com/esp32-magnetometer-hmc5883l
+
+Rev 1.0 - Initial Code - June 5, 2020
+Rev 1.1 - Improved App UI - June 6, 2020
 
 Uses Adafruit's Unified Sensor and HMC5883L libraries
 
