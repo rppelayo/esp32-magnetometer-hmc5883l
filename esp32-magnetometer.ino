@@ -24,8 +24,8 @@ Uses Adafruit's Unified Sensor and HMC5883L libraries
 Adafruit_HMC5883_Unified mag = Adafruit_HMC5883_Unified(12345);
 
 //provide your own WiFi SSID and password
-const char* ssid = "PLDTHOMEFIBRjVZpa";
-const char* password = "stacey0921";
+const char* ssid = "<your WiFi SSID>";
+const char* password = "<your WiFi Password>";
 
 WebServer server(80);
 
